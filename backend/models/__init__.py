@@ -1,0 +1,22 @@
+from .schemas import (
+    SignupRequest,
+    UserLogin,
+    CourseRequest,
+    LearningPathCreate,
+    LLMLearningPath,
+    RAGRequest,
+    StudyMaterialCreate,
+    VideoProgressUpdate,
+    AssessmentSubmit,
+    FeedbackCreate,
+    QuizSubmit,
+    QuizGenRequest,
+    ProgressUpdate,
+    CertificateRequest,
+    AssessmentGenRequest,
+    CourseEnrollment,
+    EnrollmentResponse,
+    UserProfileUpdate,
+    UserProfileResponse,
+    SkillBasedRecommendation
+)
