@@ -1,8 +1,8 @@
-# 🎓 AI-Based Course Recommendation and Academic Assistance Platform
+#  AI-Based Course Recommendation and Academic Assistance Platform
 
 An intelligent, personalized e-learning and academic support platform designed to enhance the learning experience through AI-powered course recommendations, customized learning roadmaps, interactive assessments, video watch-time verification, academic assistance, and verifiable digital certificates.
 
-## 🚀 Key Features
+##  Key Features
 
 * **Personalized Course Recommendations:** Analyzes students' skill levels (Beginner, Intermediate, and Advanced) and interests to recommend relevant courses directly on their dashboards.
 
@@ -20,7 +20,7 @@ An intelligent, personalized e-learning and academic support platform designed t
 
 * **Admin Control Panel:** Provides analytics dashboards for monitoring platform searches, quiz performance, feedback logs, and student enrollment.
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 | Component         | Technologies                    |
 | ----------------- | ------------------------------- |
@@ -33,7 +33,7 @@ An intelligent, personalized e-learning and academic support platform designed t
 | Data Processing   | Python, Pandas                  |
 | Version Control   | Git, GitHub                     |
 
-## 🤖 AI Integration
+##  AI Integration
 
 The platform integrates two AI providers:
 
@@ -49,7 +49,7 @@ The platform integrates two AI providers:
 
 Both APIs were integrated to compare their response speed and evaluate their suitability for AI-powered learning functionalities.
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 personalized-learning-system/
@@ -91,7 +91,7 @@ personalized-learning-system/
 └── .gitignore
 ```
 
-## 💻 Installation and Setup
+##  Installation and Setup
 
 ### 1. Prerequisites
 
@@ -244,7 +244,7 @@ Register, log in, and explore the learning platform.
 * Keep sensitive environment files excluded through `.gitignore`.
 * Do not expose private API keys in frontend source code.
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 The main objectives of this project are:
 
@@ -256,7 +256,7 @@ The main objectives of this project are:
 * To generate verifiable digital certificates.
 * To provide administrators with useful platform analytics.
 
-## 🌟 Expected Benefits
+##  Expected Benefits
 
 * Personalized learning experiences for students.
 * Improved learning engagement and knowledge assessment.
@@ -265,7 +265,7 @@ The main objectives of this project are:
 * Transparent course completion and certificate verification.
 * Better monitoring of student learning progress.
 
-## 👩‍💻 Developer
+##  Developer
 
 **Bhumika K.**
 
