@@ -1,8 +1,8 @@
-#  AI-Based Course Recommendation and Academic Assistance Platform
+# LearnSphere – AI-Based Course Recommendation and Academic Assistance Platform
 
 An intelligent, personalized e-learning and academic support platform designed to enhance the learning experience through AI-powered course recommendations, customized learning roadmaps, interactive assessments, video watch-time verification, academic assistance, and verifiable digital certificates.
 
-##  Key Features
+## Key Features
 
 * **Personalized Course Recommendations:** Analyzes students' skill levels (Beginner, Intermediate, and Advanced) and interests to recommend relevant courses directly on their dashboards.
 
@@ -20,36 +20,34 @@ An intelligent, personalized e-learning and academic support platform designed t
 
 * **Admin Control Panel:** Provides analytics dashboards for monitoring platform searches, quiz performance, feedback logs, and student enrollment.
 
-##  Technology Stack
+## Technology Stack
 
-| Component         | Technologies                    |
-| ----------------- | ------------------------------- |
-| Frontend          | React.js, JavaScript, HTML, CSS |
-| Backend           | Python, FastAPI                 |
-| Database          | Supabase, PostgreSQL            |
-| AI Integration    | Google Gemini API, Groq API     |
-| Video Integration | YouTube IFrame API              |
-| PDF Generation    | ReportLab                       |
-| Data Processing   | Python, Pandas                  |
-| Version Control   | Git, GitHub                     |
+| Component | Technologies |
+|---|---|
+| Frontend | React.js, JavaScript, HTML, CSS |
+| Backend | Python, FastAPI |
+| Database | Supabase, PostgreSQL |
+| AI Integration | Google Gemini API, Groq API |
+| Video Integration | YouTube IFrame API |
+| PDF Generation | ReportLab |
+| Data Processing | Python, Pandas |
+| Version Control | Git, GitHub |
 
-##  AI Integration
+## AI Integration
 
 The platform integrates two AI providers:
 
 **1. Google Gemini API**
-
 * Used for AI-powered content generation and academic assistance.
 * Supports intelligent learning-related responses and content generation.
 
 **2. Groq API**
-
 * Used for AI-powered content generation and academic assistance.
 * Evaluated alongside Gemini to compare response times and performance.
 
 Both APIs were integrated to compare their response speed and evaluate their suitability for AI-powered learning functionalities.
 
-##  Project Structure
+## Project Structure
 
 ```text
 personalized-learning-system/
@@ -91,7 +89,7 @@ personalized-learning-system/
 └── .gitignore
 ```
 
-##  Installation and Setup
+## Installation and Setup
 
 ### 1. Prerequisites
 
@@ -111,13 +109,13 @@ Make sure the following software and accounts are available:
 Open your terminal and execute:
 
 ```bash
-git clone https://github.com/Bhumika3005/Personalized-Learning-Recommendation-System.git
+git clone https://github.com/Bhumika3005/LearnSphere-AI-Based-Course-Recommendation-and-Academic-Assistance-Platform.git
 ```
 
 Navigate to the project directory:
 
 ```bash
-cd Personalized-Learning-Recommendation-System
+cd LearnSphere-AI-Based-Course-Recommendation-and-Academic-Assistance-Platform
 ```
 
 ### 3. Backend Configuration
@@ -236,7 +234,7 @@ http://localhost:3000
 
 Register, log in, and explore the learning platform.
 
-## 🔐 Environment Variables and Security
+## Environment Variables and Security
 
 * Store API keys, database credentials, and passwords in local `.env` files.
 * Never upload actual `.env` files or private credentials to GitHub.
@@ -244,9 +242,7 @@ Register, log in, and explore the learning platform.
 * Keep sensitive environment files excluded through `.gitignore`.
 * Do not expose private API keys in frontend source code.
 
-##  Project Objectives
-
-The main objectives of this project are:
+## Project Objectives
 
 * To provide personalized course recommendations based on student profiles.
 * To create structured and customized learning roadmaps.
@@ -256,7 +252,7 @@ The main objectives of this project are:
 * To generate verifiable digital certificates.
 * To provide administrators with useful platform analytics.
 
-##  Expected Benefits
+## Expected Benefits
 
 * Personalized learning experiences for students.
 * Improved learning engagement and knowledge assessment.
@@ -265,7 +261,7 @@ The main objectives of this project are:
 * Transparent course completion and certificate verification.
 * Better monitoring of student learning progress.
 
-##  Developer
+## Developer
 
 **Bhumika K.**
 
